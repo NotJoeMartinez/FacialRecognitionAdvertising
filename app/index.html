@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+  <script src="https://www.gstatic.com/firebasejs/5.9.4/firebase.js"></script>
+  <script>
+    // Initialize Firebase
+    var config = {
+      apiKey: "AIzaSyDedvxvxDN27GSNl0l2dOFesoi634v1DQ0",
+      authDomain: "facefacebook-9cce2.firebaseapp.com",
+      databaseURL: "https://facefacebook-9cce2.firebaseio.com",
+      projectId: "facefacebook-9cce2",
+      storageBucket: "facefacebook-9cce2.appspot.com",
+      messagingSenderId: "886861006119"
+    };
+    firebase.initializeApp(config);
+  </script>
+  <!-- Facebook Pixel Code -->
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '3066308656716446');
+  fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=3066308656716446&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+
+</head>
+
+
+<body>
+  <ul></ul>
+  <script src="app.js"></script>
+</body>
+</html>
