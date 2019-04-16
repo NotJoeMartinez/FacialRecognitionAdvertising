@@ -2,8 +2,8 @@
 Displays billboard advertisements to users based off attributes detected via facial recognition software. 
 
 ## Built at RowdyHacks2019 with the help of 
-@BenGonzalez97
 @MilesMartinez
+@BenGonzalez97 I also worked on the OpenCV library to implement attributes from the webcam feed. We did a bunch of web app development, which I was fairly new to and never dived into before. It was a great learning experience and happy with the end result.
 ## Inspiration
 - Digital marketing 
 - LED billboards
