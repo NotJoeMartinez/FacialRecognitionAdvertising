@@ -1,6 +1,9 @@
 # FacialRecognitionAdvertising
 Displays billboard advertisements to users based off attributes detected via facial recognition software. 
 
+## Built at RowdyHacks2019 with the help of 
+@BenGonzalez97
+@MilesMartinez
 ## Inspiration
 - Digital marketing 
 - LED billboards
